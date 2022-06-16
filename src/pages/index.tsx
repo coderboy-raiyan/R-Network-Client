@@ -1,5 +1,5 @@
 function index() {
-    return <div className="text-2xl">index</div>;
+    return <div className="text-2xl">ht</div>;
 }
 
 export default index;
